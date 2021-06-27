@@ -10,9 +10,3 @@ I am programer in `Ruby`, `C`, `C++`, `Javascript`,... languages and I am a prog
 I always try to make a new tools or new softwares for kali linux 🖥️, but sometimes I try to make a GUI software or website.
 
 I hope so you found your tools or softwares in my `Github/Gitlab` page. 😎
-
-<style>
-    img {
-        border: 5px;
-    }
-</style>
